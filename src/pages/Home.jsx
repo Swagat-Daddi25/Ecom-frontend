@@ -14,14 +14,18 @@ function Home() {
       <h2>Why MY BAG?</h2>
       <li>
         <b>Premium Quality Materials</b>
+        <br />
         Built to last with attention to detail.
       </li>
+
       <li>
         <b>Modern & Functional Designs</b>
+        <br />
         Stylish looks with smart storage.
       </li>
       <li>
         <b>Comfort Meets Durability</b>
+        <br />
         Easy to carry, strong enough for daily use.
       </li>
       <li>
