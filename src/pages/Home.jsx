@@ -12,26 +12,26 @@ function Home() {
         are made to keep up with you.
       </p>
       <h2>Why MY BAG?</h2>
-      <li>
+      <ul>
         <b>Premium Quality Materials</b>
         <br />
         Built to last with attention to detail.
-      </li>
+      </ul>
 
-      <li>
+      <ul>
         <b>Modern & Functional Designs</b>
         <br />
         Stylish looks with smart storage.
-      </li>
-      <li>
+      </ul>
+      <ul>
         <b>Comfort Meets Durability</b>
         <br />
         Easy to carry, strong enough for daily use.
-      </li>
-      <li>
+      </ul>
+      <ul>
         <b>Affordable Pricing</b>
         Quality bags without the premium price tag
-      </li>
+      </ul>
 
       <h3>
         <b>
