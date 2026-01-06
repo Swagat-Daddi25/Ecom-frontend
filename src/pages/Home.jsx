@@ -11,6 +11,10 @@ function Home() {
         you’re heading to work, traveling, or stepping out casually, our bags
         are made to keep up with you.
       </p>
+      <img
+        src="https://tse2.mm.bing.net/th/id/OIP.yMMDlQ0FIj2KRcR5dKhESwHaEi?pid=Api&P=0&h=180"
+        alt=""
+      />
       <h2>Why MY BAG?</h2>
       <ul>
         <b>Premium Quality Materials</b>
