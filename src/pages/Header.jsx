@@ -24,7 +24,7 @@ function Header() {
     https://res.cloudinary.com/dhdepk5ib/image/upload/v1757696461/samples/ecommerce/leather-bag-gray.jpg"
               alt=""
             />
-            <b>My Mart</b>
+            <b>My Bag</b>
           </div>
 
           <nav style={{ display: "flex", gap: "20px", alignItems: "center" }}>
